@@ -15,7 +15,7 @@
   3. Binder 3 [Paimon] Feat: Ability Focus(Paralysis)
   4. Fighter 1 (Improved Initiative)
   5. Fighter 2 (Death Blow) 
-  6. Dragon Devotee Feat: Improved Turn Resistance(12HD)
+  6. Dragon Devotee 1 Feat: Improved Turn Resistance(12HD)
 - *Equipment:*
   - Greataxe (20 gp, 12 lb)
   - Belt Pouch (1 gp,0.5 lb)
