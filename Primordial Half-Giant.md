@@ -1,5 +1,5 @@
 - *Name:* Fegor Nometsky
-- *Looks:* Tall, gaunt, with a wild beard
+- *Looks:* Tall, gaunt, wild beard, loincloth
 - *Alignment:* LE
 - *Race:* Primordial[SoX] Half-Giant[ExPs]
 - *Modifiers:* STR-2, CON, DEX-2, INT+4, CHA+4
@@ -9,7 +9,7 @@
 - *Special Qualities:* Invisibility(At will, Su), Stomp
 - *To Hit:* +1(dex) +3(bab)
 - *Skills:* Hide, Move Silently, Knowledge: Arcana, Knowledge: Religion, Tumble
-- *Powers:* Entangling Ectoplasm, Inertial Armor, Offensive Precognition, Vigor
+- *Powers:* Entangling Ectoplasm, Inertial Armor, Offensive Precognition, Vigor, Endure Elements
  1. Monk 1(Soulwarp Strike(CM)) Feat:Weapon Finesse
  2. Monk 2(Invisible Fist(EoE))
  3. Telepath 1[Narrow Mind] Feat:Ascetic Psion(E:SoS)
