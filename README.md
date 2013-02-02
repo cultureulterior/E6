@@ -1,4 +1,1 @@
-d6
-==
-
-D6 Characters
+My E6 Characters
