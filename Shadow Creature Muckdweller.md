@@ -2,7 +2,7 @@
 - *Summary:* GUYS! GUYS! YOU WILL NOT BELIEVE THE LIZARD DREAM I HAD!
 - *Looks:* Tiny oily gleaming lizard 
 - *Race:* Shadow Creature[Races of Madness] Muckdweller[Serpent Kingdoms] Tiny Monstrous Humanoid[Extraplanar]
-- *Benefits:* Scouting, Trapmonkey, Melee(20d)
+- *Benefits:* Scouting, Trapmonkey, Melee(30d)
 - *Stats:* STR 4:2,DEX 22:10, CON 14:6, WIS 6, CHA 6, INT 8
 - *Speed:* 30(Land), 30(Water)
 - *To Hit:* 13: +2(size) +5(bab) +6(dex)
