@@ -1,10 +1,11 @@
 - *Race:* Amphibious Illumian Humanoid (Human)
-- *Stats:* 
+- *Stats:* DEX -2
 - *Summary:* Dead rising from the wine-dark sea
 - *AC:* 15: +2(dex) +4(armor)
 - *Skills:*
   - Concentration 4,
   - Intimidate 4
+- *Special Qualities*: Amphibious
 - *Iconic Equipment:* Equipment: Mithril Breastplate +1, +1 Longsword
 - *Levels:*
  1. Dread Necromancer 1 (Nae) (Feat:Martial Weapon Proficiency:Sap) Feat:Tomb-Tainted Soul[LM]
