@@ -1,4 +1,4 @@
-- *Race:* Aquatic Illumian Humanoid (Human)
+- *Race:* Amphibious Illumian Humanoid (Human)
 - *Stats:* 
 - *Summary:* Dead rising from the wine-dark sea
 - *AC:* 15: +2(dex) +4(armor)
