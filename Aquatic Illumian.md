@@ -5,7 +5,6 @@
 - *Skills:*
   - Concentration 4,
   - Intimidate 4
-  - Profession(Nanny) 2
 - *Iconic Equipment:* Equipment: Mithril Breastplate +1, +1 Longsword
 - *Levels:*
  1. Dread Necromancer 1 (Nae) (Feat:Martial Weapon Proficiency:Sap) Feat:Tomb-Tainted Soul[LM]
