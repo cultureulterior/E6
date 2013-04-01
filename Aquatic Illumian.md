@@ -1,5 +1,6 @@
 - *Race:* Aquatic Illumian Humanoid (Human)
 - *Stats:* 
+- *Summary:* Dead rising from the wine-dark sea
 - *AC:* 15: +2(dex) +4(armor)
 - *Skills:*
   - Concentration 4,
