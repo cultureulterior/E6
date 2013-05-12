@@ -1,4 +1,5 @@
 - *Name:* Doanc
+- *Summary:* Spent a long time in an overgrown graveyard, but then made a druid friend
 - *Benefits:* Save or Die, Melee, UMD
 - *Race:* Gravetouched Ghoul Human (Medium Undead)
 - *Stats:* LA+2, so 18 point buy STR 12:4(+2), DEX 14:2(+4), CON -, INT 10(+2), WIS 12(+4), CHA 18:10(+2)
