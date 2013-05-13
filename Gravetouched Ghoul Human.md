@@ -8,7 +8,7 @@
 - *AC:* 18: 2(na)+4(armor)+2(dex)
 - *Iconic Equipment:* Wand of Disguise Undead, Wand of Acorn of Far Travel
 - *Iconic Feats:* Improved Initiative, Death Blow
-- *Skills:* Craft: Engineer
+- *Skills:* Use Magic Device
 - *Levels:*
   1. Hexblade 1 Improved Paralysis (DC18)
   2. Hexblade 2 [Arcane Resistance, Cha to saving throws]
