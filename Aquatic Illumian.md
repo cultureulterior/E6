@@ -1,5 +1,7 @@
+- *Name:* Isaac Charuel, Esq.
 - *Race:* Amphibious Illumian Humanoid (Human)
 - *Stats:* DEX -2
+- *Looks:* Coal-black mithril armor with a painted-on white tie
 - *Summary:* Dead rising from the wine-dark sea
 - *AC:* 15: +2(dex) +4(armor)
 - *Skills:*
