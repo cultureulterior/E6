@@ -5,6 +5,7 @@
 - *Special Qualities:* Scent, DR10/silver
 - *Special Attacks:* Poison
 - *Attacks:* 2xBite=2d6 CON primary, 4d6 CON secondary 
+- *Iconic Feats:* Deadly Poison(Req CON19)
 - *Levels:*
  1. Were-Two-Headed Adder[FR:CS] 1 Feat:Virulent Poison, (Weapon Finesse[B], Iron Will[B]) (Worships Llolth, or Half-drow)
  2. Binder 1
@@ -13,4 +14,3 @@
  5. Binder 4
  6. Binder 5 [Tenembrous] Feat: Llolth's Caress[DotU 54] 
 
-- *Advanced Feats:* Deadly Poison(Req CON19)
