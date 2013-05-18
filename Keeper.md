@@ -7,7 +7,7 @@
 - Levels: 
   1. Outsider 1 (Spring Attack[B]) Feat: Power Attack
   2. Outsider 2
-  3. Outsider 3 Feat: Leap Attack
+  3. Outsider 3 
   4. Outsider 4
   5. 
-  6. 
+  6. Feat: Leap Attack
