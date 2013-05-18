@@ -1,6 +1,6 @@
 - *Race:* Keeper(Fiend Folio) Medium Outsider(Extraplanar)
 - *Stats:* STR 24:6 (+8), DEX 14:0 (+6), CON 18:4 (+4), INT 12:0 (+4), 6:0 WIS -2, CHA 4:0 CHA -4
-- *AC:* 21: +3(dex), +4(na) +4(armor) 
+- *AC:* 25: +3(dex), +4(na) +8(armor) 
 - *Speed:* 40, (climb 20)
 - *Equipment:* Greatsword
 - *Iconic Equipment:* Mithril Full-Plate
