@@ -1,4 +1,4 @@
-- *Name:* Belle
+- *Name:* Genevieve Aldridge
 - *Race:* Neogi / Aberration (Small)
 - *Looks:* White silk bow around abdomen, lace ruffles around ankles, wide brimmed hat
 - *Summary:* Adventuring? But what about my debutante ball?
