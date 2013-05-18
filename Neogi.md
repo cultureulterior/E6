@@ -1,5 +1,6 @@
+- *Name:* Genevieve
 - *Race:* Neogi / Aberration (Small)
-- *Looks:* White silk bow around abdomen and lace ruffles around ankles
+- *Looks:* White silk bow around abdomen, lace ruffles around ankles, wide brimmed hat
 - *Summary:* Adventuring? But what about my debutante ball?
 - *Speed:* 30 (land) 20 (climb)
 - *Stats:* STR 4:0 DEX 14:0, CON 12:6,INT 12:0,WIS 12:0,CHA 18:4
