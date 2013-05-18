@@ -1,3 +1,4 @@
+- *Name:* The Green Knight
 - *Race:* Medusa: LA+4 (Player's Guide to Eberron)
 - *Summary:* A mystery knight! How valiant, and yet how humble! Probably a noble in disguise...
 - *Iconic Equipment:* 
