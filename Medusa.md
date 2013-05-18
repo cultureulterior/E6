@@ -1,5 +1,5 @@
 - *Race:* Medusa: LA+4 (Player's Guide to Eberron)
-- *Summary:* A mystery knight! Probably a noble in disguise...
+- *Summary:* A mystery knight! How valiant, and yet how humble! Probably a noble in disguise...
 - *Iconic Equipment:* Hat of Disguise (1800gp,-), Mithril Chain Shirt(1100gp,12.5lb), Heavy Mithril Shield(1050gp,7.5lb), Mithril Dagger(1005gp,0.5lb)
 - *Stats:* Str 8, Dex 12, Con 10, Int 10(11/13), Wis 10, Cha 12
 - *Skills:* Use Magic Device, Disguise
