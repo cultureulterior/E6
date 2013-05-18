@@ -6,7 +6,7 @@
 - *Stats:* STR-, DEX10, CON10, INT12, WIS14, CHA 12
 - *AC:* 15 +1(Cha) +4(Inertial Armor)
 - *Attacks:* +0/1d6
-- *Cohort:* 5th level, Named Montague
+- *Cohort:* 5th level, Named Montague, Fighter type
 - *Levels:*
  1. Unbodied 1 Feat: Ability Training (Wisdom)
  2. Unbodied 2
