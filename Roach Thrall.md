@@ -1,8 +1,8 @@
-- *Race:* Roach Thrall (Aberration)
-- *Stats:* STR 14:6, Dex 18:6 +4, Con 16:6 Con+2, Int: 12:0 Int +4, Wis 10:0 Wis+2
-- *AC:* 24: +6(na) +4(dex) +4(armor)
-- *Attacks:* 
-- *Levels:*
+- **Race:** Roach Thrall (Aberration)
+- **Stats:** STR 14:6, Dex 18:6 +4, Con 16:6 Con+2, Int: 12:0 Int +4, Wis 10:0 Wis+2
+- **AC:** 24: +6(na) +4(dex) +4(armor)
+- **Attacks:** 
+- **Levels:**
   1. Roach Thrall 1 Feat:Multiattack, (Improved Initiative)
   2. Roach Thrall 2
   3. Roach Thrall 3 Feat:Improved Multiattack
